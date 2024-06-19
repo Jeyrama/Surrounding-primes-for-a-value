@@ -31,3 +31,5 @@ function primeBefAft(num) {
   while (!isPrime(after)) ++after;
   return [before, after];
 }
+
+// or
