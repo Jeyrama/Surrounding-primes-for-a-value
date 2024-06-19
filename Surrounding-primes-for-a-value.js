@@ -13,3 +13,6 @@ Let's see some cases:
   primeBefAft(97) == [89, 101]
   primeBefAft(101) == [97, 103]
 */
+
+
+// Solution
